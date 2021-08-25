@@ -1,6 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 node_modules
-# ignore files in folder Categories
-Categories
-# but keep the folder
-Categories
+#Ignore everything
+*
+#dont ignore this file
+!.Categories
