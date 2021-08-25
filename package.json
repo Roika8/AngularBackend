@@ -1,0 +1,26 @@
+{
+  "name": "beckend-angular-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roika8/AngularProj.git"
+  },
+  "author": "Roi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roika8/AngularProj/issues"
+  },
+  "homepage": "https://github.com/Roika8/AngularProj#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "image-to-base64": "^2.2.0",
+    "nodemon": "^2.0.12"
+  }
+}
