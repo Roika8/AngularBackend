@@ -1,4 +1,4 @@
-Importent!!!
+Important!!!
 
 You need to add to the project directory the following directories :
 Categories
